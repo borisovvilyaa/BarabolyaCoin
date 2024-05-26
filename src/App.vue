@@ -34,6 +34,7 @@ body {
   padding: 0;
   position: relative;
   min-height: 100vh;
+  min-height: 95vh;
 }
 
 .menu-container {
@@ -45,7 +46,6 @@ body {
   width: 100%;
   background-color: black;
   text-align: center;
-  padding: 50px 0;
   z-index: 1000;
 }
 
